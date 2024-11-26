@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\UVMAssemblerAndInterpreter\UVMAssemblerAndInterpreter.csproj" />
+    <ProjectReference Include="..\UVM\UVM.csproj" />
   </ItemGroup>
 
   <ItemGroup>
